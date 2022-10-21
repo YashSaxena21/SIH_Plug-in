@@ -1,4 +1,4 @@
-                                                                                             Plug-In for Diksha App
+                                                      Plug-In for Diksha App
 
 -About the Plug-In:-
  The plug-in is designed to assist/help the teachers to assess the performance of the class using our OCR model and we also 
